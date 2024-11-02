@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, my name is Phuong-An Bui👋
 
-<!--
-**phganie/phganie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a tech enthusiast passionate about mental health, social justice, and building solutions with real-world impact. 
+🏫: Northeastern University '26.
 
-Here are some ideas to get you started:
+🎯 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	Mental Health Tech: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
+	•	Data Modeling & Analysis: Working on data models, full-stack development, and projects involving SQL, R, and cloud integrations like AWS.
+	•	Academic Growth: Currently studying for a BS in Computer Science and Business Administration, with a concentration on Entrepreneurship Startups, and a minor in Psychology. and MS in Computer Science.
+
+💼 My Skills
+
+	•	Languages:Java • Python • HTML • CSS • JavaScript •  TypeScript • SQL • Racket • C
+	•	Frameworks & Tools: React, MongoDB, FastAPI, PyTorch, Altair, sqldf in R
+ 
+ 🌐 Let’s Connect!
+
+I love meeting new people in tech, psychology, and social impact. Feel free to reach out on:
+
+	•	GitHub: @phganie
+	•	LinkedIn: [LinkedIn](https://www.linkedin.com/in/phuongan-bui/)
+	•	Instagram: @pghaniee_
+
+Let’s work together to build something meaningful!
