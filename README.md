@@ -17,26 +17,11 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
 - **Languages**: Java • Python • HTML • CSS • JavaScript • TypeScript • SQL • Racket • C
 - **Frameworks & Tools**: React • MongoDB • FastAPI • PyTorch • Altair • sqldf in R
 
-## Installation
-
-Provide step-by-step instructions on how to get the project running locally.
-
-## Usage
-
-Include examples and instructions on how to use the project.
-
-## Contributing
-
-Explain how others can contribute to the project.
-
-## License
-
-Include the license information.
-
 ## Let's Connect!
 
 I love meeting new people in tech, psychology, and social impact. Feel free to reach out on:
 - GitHub: @phganie
+- Gmail: Personal: buihuuphuongan@gmail.com | School: bui.huu@northeastern.edu
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/phganie)
 - Instagram: @pghaniee_
 
