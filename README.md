@@ -13,8 +13,17 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
 - Academic Growth: Pursuing a BS in Computer Science and Business Administration, with a concentration in Entrepreneurship Startups, a minor in Psychology, and an MS in Computer Science.
 
 ## Skills
-
-- **Languages**: Java • Python • HTML • CSS • JavaScript • TypeScript • SQL • Racket • C
+ 
+- **Languages**:
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=racket&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 - **Frameworks & Tools**: React • MongoDB • FastAPI • PyTorch • Altair • sqldf in R
 
 ## Let's Connect!
