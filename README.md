@@ -21,8 +21,9 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
 
 I love meeting new people in tech, psychology, and social impact. Feel free to reach out on:
 - GitHub: @phganie
-- Gmail: Personal: buihuuphuongan@gmail.com | School: bui.huu@northeastern.edu
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phganie)
+- Personal Email: [![Gmail](https://img.shields.io/badge/Gmail-buihuuphuongan@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:buihuuphuongan@gmail.com)
+- School Email: [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phganie)
 - Instagram: @pghaniee_
 
 Let’s work together to build something meaningful!
