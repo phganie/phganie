@@ -4,7 +4,7 @@ Hi there, my name is Phuong-An Bui 👋
 
 I’m a tech enthusiast passionate about mental health, social justice, and building solutions with real-world impact.
 
-- 🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
+🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
   
 ## What I'm Working On
 
