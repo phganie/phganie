@@ -36,7 +36,7 @@ I love meeting new people in tech, psychology, and social impact. Feel free to r
 - *GitHub*: [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)
 - *Personal Email*: [![Gmail](https://img.shields.io/badge/Gmail-buihuuphuongan@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:buihuuphuongan@gmail.com)
 - *School Email*: [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
-- *LinkedIn*: [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phganie)
+- *LinkedIn*: [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)
 - *Instagram*: [![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
   
 Let’s work together to build something meaningful! :D :D :D :D :D
