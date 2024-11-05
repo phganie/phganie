@@ -1,9 +1,9 @@
 ## Introduction
 
-Hi there, my name is Phuong-An Bui 👋
+### Hi there, my name is **Phuong-An Bui** 👋
 
 <p align="center">
-<img src="https://media.giphy.com/media/kkEmNte4tRmZ0fgBhE/giphy.gif?cid=ecf05e47jswhkgtwx4izmnncqtzvxqz2rh1wf1lbn4b2a3c6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="cat meme">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrenplaTRiejkxeWx3NXBkazNkbnJ6NDgxZzZlYWJvb2ZsZGg5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z1kpfgtHmpWHS/giphy.gif" alt="hello">
 </p>
 
 I’m a tech enthusiast passionate about mental health, social justice, and building solutions with real-world impact.
@@ -12,9 +12,9 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
   
 ## What I'm Working On
 
-- Serenity - Mental Health Tech: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
-- Data Modeling & Analysis: Working on data models, full-stack development, and projects involving SQL, R, and cloud integrations like AWS.
-- Academic Growth: Pursuing a BS in Computer Science and Business Administration, with a concentration in Entrepreneurship Startups, a minor in Psychology, and an MS in Computer Science.
+- **Serenity - Mental Health Tech**: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
+- **Data Modeling & Analysis**: Working on data models, full-stack development, and projects involving SQL, R, and cloud integrations like AWS.
+- **Academic Growth**: Pursuing a BS in Computer Science and Business Administration, with a concentration in Entrepreneurship Startups, a minor in Psychology, and an MS in Computer Science.
 
 ## Skills
  
