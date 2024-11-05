@@ -2,9 +2,10 @@
 
 Hi there, my name is Phuong-An Bui 👋
 
+<p align="center">
+<img src="https://media.giphy.com/media/iE4e5c8ExJUhdhvSiw/giphy.gif?cid=790b7611fz84hrqwis2qxs54mcbucotwav2f8ih0mtn4zatr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="cat meme">
+</p>
 
-
-![Cat Meme](https://media.giphy.com/media/iE4e5c8ExJUhdhvSiw/giphy.gif?cid=790b7611fz84hrqwis2qxs54mcbucotwav2f8ih0mtn4zatr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 I’m a tech enthusiast passionate about mental health, social justice, and building solutions with real-world impact.
 
 🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
