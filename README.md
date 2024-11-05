@@ -8,7 +8,7 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
   
 ## What I'm Working On
 
-- Mental Health Tech: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
+- Serenity - Mental Health Tech: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
 - Data Modeling & Analysis: Working on data models, full-stack development, and projects involving SQL, R, and cloud integrations like AWS.
 - Academic Growth: Pursuing a BS in Computer Science and Business Administration, with a concentration in Entrepreneurship Startups, a minor in Psychology, and an MS in Computer Science.
 
