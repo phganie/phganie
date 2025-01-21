@@ -1,6 +1,6 @@
 ## Introduction
 
-### Hi there, my name is **An Bui** 👋
+### Hi there, my name is **An** 👋
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrenplaTRiejkxeWx3NXBkazNkbnJ6NDgxZzZlYWJvb2ZsZGg5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z1kpfgtHmpWHS/giphy.gif" alt="hello">
