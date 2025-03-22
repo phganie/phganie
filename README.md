@@ -6,15 +6,16 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrenplaTRiejkxeWx3NXBkazNkbnJ6NDgxZzZlYWJvb2ZsZGg5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z1kpfgtHmpWHS/giphy.gif" alt="hello">
 </p>
 
-I’m a tech enthusiast passionate about mental health, social justice, and building solutions with real-world impact.
-
 🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
   
 ## What I'm Working On
 
-- **Serenity - Mental Health Tech**: Designing a social media app dedicated to mental wellness, complete with community support, AI guidance, and wellness tracking.
-- **Data Modeling & Analysis**: Working on data models, full-stack development, and projects involving SQL, R, and cloud integrations like AWS.
-- **Academic Growth**: Pursuing a BS in Computer Science and Business Administration, with a concentration in Entrepreneurship Startups, a minor in Psychology, and an MS in Computer Science.
+*	Serenity – Mental Health Tech: Designing a supportive social media platform focused on wellness, combining community, AI-driven guidance, and progress tracking.
+*	Data Modeling & Engineering: Exploring large-scale datasets and building full-stack apps with cloud integrations (AWS, MongoDB).
+*	Academic Journey: Pursuing a BS in Computer Science & Business Admin (w. a concentration in Entrepreneurship Startups), a Psych minor, and an MS in CS.
+
+⸻
+
 
 ## Skills
  
@@ -32,9 +33,8 @@ I’m a tech enthusiast passionate about mental health, social justice, and buil
 
 ## Let's Connect!
 
-I love meeting new people in tech, psychology, and social impact. Feel free to reach out on:
+I’m always open to collaborating or just chatting about tech, psychology, and impact-driven innovation. Feel free to reach out:
 - *GitHub*: [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)
-- *Personal Email*: [![Gmail](https://img.shields.io/badge/Gmail-buihuuphuongan@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:buihuuphuongan@gmail.com)
 - *School Email*: [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
 - *LinkedIn*: [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)
 - *Instagram*: [![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
