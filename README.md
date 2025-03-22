@@ -2,11 +2,13 @@
 
 ### Hi there, my name is **An** 👋
 
+
+🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
+
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrenplaTRiejkxeWx3NXBkazNkbnJ6NDgxZzZlYWJvb2ZsZGg5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z1kpfgtHmpWHS/giphy.gif" alt="hello">
 </p>
 
-🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
   
 ## What I'm Working On
 
