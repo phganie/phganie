@@ -34,7 +34,7 @@
 ## Let's Connect!
 
 I’m always open to collaborating or just chatting about tech, psychology, and impact-driven innovation. Feel free to reach out:
-- *GitHub*: [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)
-- *School Email*: [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
-- *LinkedIn*: [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)
-- *Instagram*: [![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
+[![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)
+[![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)
+[![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
