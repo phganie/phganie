@@ -6,7 +6,7 @@
   * BS in Computer Science + Business Admin (w. an Entrepreneurship Startups concentration), minor in Psychology.
   * MS in Computer Science
     
-📍 **Boston, MA **
+📍 **Boston, MA**
 
 [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)  [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie) 
   
