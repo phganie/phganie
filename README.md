@@ -2,19 +2,22 @@
 
 ### Hi there, my name is **An** 👋
 
+🎓 **Northeastern University**, *Class of 2026*
+  * BS in Computer Science + Business Admin (w. an Entrepreneurship Startups concentration), minor in Psychology.
+  * MS in Computer Science
+    
+📍 **Boston, MA **
 
-🎓 [![School](https://img.shields.io/badge/Northeastern%20University-'26-maroon?style=flat-square&logo=grad&logoColor=white)]()
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrenplaTRiejkxeWx3NXBkazNkbnJ6NDgxZzZlYWJvb2ZsZGg5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z1kpfgtHmpWHS/giphy.gif" alt="hello">
-</p>
-
+[![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)  [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie) 
   
 ## What I'm Working On
+**	Serenity – Mental Health Tech:** Designing a supportive social media platform focused on wellness, combining community, AI-driven guidance, and progress tracking.
+   * Status: In prototype phase
+   * Tech: React Native, MongoDB, Node.js, AWS Lambda, GPT API
 
-*	Serenity – Mental Health Tech: Designing a supportive social media platform focused on wellness, combining community, AI-driven guidance, and progress tracking.
-*	Data Modeling & Engineering: Exploring large-scale datasets and building full-stack apps with cloud integrations (AWS, MongoDB).
-*	Academic Journey: Pursuing a BS in Computer Science & Business Admin (w. a concentration in Entrepreneurship Startups), a Psych minor, and an MS in CS.
+**WiDS 2025 Kaggle Challenge:**
+   * Focus: Feature engineering, Optuna optimization, class imbalance strategies
+   * Tools: sci-kit-learn, LightGBM, Optuna, pandas, seaborn, PCA, KNN Imputer
 
 ⸻
 
@@ -31,12 +34,10 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=racket&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-- **Frameworks & Tools**: React • MongoDB • FastAPI • PyTorch • Altair • sqldf in R
+-----
 
 ## Let's Connect!
 
 I’m always open to collaborating or just chatting about tech, psychology, and impact-driven innovation. Feel free to reach out:
-[![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)
-[![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)
-[![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
+
+[![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie)    [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phuongan-bui/)   [![Instagram](https://img.shields.io/badge/Instagram-@phganiee_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phganiee_)
