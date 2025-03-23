@@ -11,7 +11,7 @@
 [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)  [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie) 
   
 ## What I'm Working On
-**	Serenity – Mental Health Tech:** Designing a supportive social media platform focused on wellness, combining community, AI-driven guidance, and progress tracking.
+**Serenity – Mental Health Tech:** Designing a supportive social media platform focused on wellness, combining community, AI-driven guidance, and progress tracking.
    * Status: In prototype phase
    * Tech: React Native, MongoDB, Node.js, AWS Lambda, GPT API
 
