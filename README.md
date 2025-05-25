@@ -11,7 +11,7 @@
 [![Northeastern](https://img.shields.io/badge/Email-bui.huu@northeastern.edu-maroon?style=flat-square&logo=gmail&logoColor=white)](mailto:bui.huu@northeastern.edu)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-PhuongAn-blue?style=flat-square&logo=linkedin)  [![GitHub](https://img.shields.io/badge/GitHub-phganie-black?style=flat-square&logo=github)](https://github.com/phganie) 
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phganie)](https://github.com/phganie/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phganie&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
