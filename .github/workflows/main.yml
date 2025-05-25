@@ -1,30 +1,26 @@
-name: Generate Datas
+name: Generate Snake Contribution Graph
 
 on:
-  schedule:         # Runs every 12 hours
+  schedule:       # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate Snake
     runs-on: ubuntu-latest
 
     steps:
-      # Optional: Make sure the dist folder exists
-      - name: Create output folder
-        run: mkdir -p dist
-
-      # Generate the snake SVG
-      - name: Generate Snake SVG
-        uses: Platane/snk@master
+      - name: Generate Snake Animation (GIF + SVG)
+        uses: Platane/snk@v3
         with:
-          github_user_name: phganie           # <-- replace with your username
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: phganie
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-snake.gif
 
-      # Deploy to the output branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
