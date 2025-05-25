@@ -45,7 +45,7 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/phganie/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/phganie/phganie/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
