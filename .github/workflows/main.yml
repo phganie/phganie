@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Optional: Ensure the dist directory exists
+      - name: Create output folder
+        run: mkdir -p dist
+
       # Snake Animation
       - name: Generate Snake SVG
         uses: Platane/snk@master
