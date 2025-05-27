@@ -16,7 +16,7 @@
 
 ### ✨ About Me
 
-* 👩‍🎓 Enthusiastic **Computer Science** (BS + MS) & **Business Administration** student (Entrepreneurship & Startups concentration) at **Northeastern University**.
+* 👩‍🎓 **Computer Science** (BS + MS) & **Business Administration** student (Entrepreneurship & Startups concentration) at **Northeastern University**.
 * 🧠 Minoring in **Psychology**, with a keen interest in **mental health** and **ethical technology**.
 * 🛠 Passionately building **AI solutions**, robust **full-stack applications**, and impactful **systems** that drive positive change.
 * 🚀 Always eager to learn new technologies and contribute to meaningful projects!
