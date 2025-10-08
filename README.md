@@ -65,6 +65,7 @@ an@northeastern:~$ current_status
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phganie/phganie/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phganie/phganie/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 ### 💻 Tech Stack & Tools
@@ -90,6 +91,56 @@ an@northeastern:~$ current_status
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phganie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8EC5FC&text_color=FFFFFF" alt="Top Languages" width="48%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=phganie&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="Trophies" width="48%"/>
 </p>
+
+---
+
+### 🎯 Current Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      
+#### 📚 Learning
+```python
+current_courses = {
+    "CS4530": "Software Engineering",
+    "focus": ["System Design", 
+              "Agile Development",
+              "TPM & SWE Skills"]
+}
+```
+      
+    </td>
+    <td width="50%">
+      
+#### 🔨 Building
+```javascript
+const interests = {
+  careerPaths: ["Software Engineering",
+                "Technical Program Manager"],
+  currentWork: "Research Assistant",
+  passion: "AI-powered solutions"
+}
+```
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Matrix Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" />
+</p>
+
+```
+ ╔═══════════════════════════════════════════════════╗
+ ║  "The Matrix is everywhere. It is all around us." ║
+ ║              - Morpheus (and my code)              ║
+ ╚═══════════════════════════════════════════════════╝
+```
 
 ---
 
