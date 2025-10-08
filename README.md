@@ -1,16 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ec5fc,100:e0c3fc&height=260&section=header&text=Hi,%20I'm%20An!%20🐾&fontSize=50&animation=fadeIn" width="100%" alt="Header"/>
+<div align="center">
+  
+  <!-- Animated Greeting -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8EC5FC&center=true&vCenter=true&width=600&lines=Hi!+I'm+An+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  
+  <!-- Education & Role -->
+  <h3 style="margin-top: 20px;">
+    🎓 Computer Science (BS + MS) & Business Administration<br>
+    📍 Northeastern University
+  </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8EC5FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Computer+Science+%26+Business+%40+Northeastern;🎓+BS+%2B+MS+%7C+Class+of+2026;🚀+Building+AI+Solutions+%26+Full-Stack+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phganie&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/phganie?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-</p>
-
----
-
+  <!-- Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</div>
 <!-- Seasonal Decorations - Automatically changes based on date -->
 <div align="center">
 
@@ -24,11 +25,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" alt="Snowman" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Wrapped%20Gift.png" alt="Gift" width="25" height="25" />
 -->
-
 </div>
-
----
-
 ### ✨ About Me
 
 ```terminal
