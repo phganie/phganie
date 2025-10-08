@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Wrapped%20Gift.png" alt="Gift" width="25" height="25" />
 -->
 </div>
+
 ### ✨ About Me
 
 ```terminal
