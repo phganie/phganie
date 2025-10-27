@@ -117,10 +117,7 @@ const interests = {
   passion: "AI-powered solutions"
 }
 ```
-      
-    </td>
-  </tr>
-</table>
+
 
 ---
 
@@ -133,7 +130,7 @@ const interests = {
 ```
  ╔═══════════════════════════════════════════════════╗
  ║  "The Matrix is everywhere. It is all around us." ║
- ║              - Morpheus (and my code)              ║
+ ║              - Morpheus (and my code)             ║
  ╚═══════════════════════════════════════════════════╝
 ```
 
