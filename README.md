@@ -108,9 +108,6 @@ current_courses = {
 }
 ```
       
-    </td>
-    <td width="50%">
-      
 #### 🔨 Building
 ```javascript
 const interests = {
