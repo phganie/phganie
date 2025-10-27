@@ -113,7 +113,7 @@ current_courses = {
 const interests = {
   careerPaths: ["Software Engineering",
                 "Technical Program Manager"],
-  currentWork: "Research Assistant",
+  currentWork: ["Research Assistant", "Teaching Assistant"],
   passion: "AI-powered solutions"
 }
 ```
