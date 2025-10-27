@@ -118,22 +118,6 @@ const interests = {
 }
 ```
 
-
----
-
-### 🌐 Matrix Mode
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" />
-</p>
-
-```
- ╔═══════════════════════════════════════════════════╗
- ║  "The Matrix is everywhere. It is all around us." ║
- ║              - Morpheus (and my code)             ║
- ╚═══════════════════════════════════════════════════╝
-```
-
 ---
 
 ### 🎮 Fun Stats
