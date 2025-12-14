@@ -51,7 +51,7 @@ an@northeastern:~$ ls experience/
 
 an@northeastern:~$ current_status
 └─> 🌱 Currently learning: Software Engineering
-└─> 🎯 Career focus: SWE or Technical Program Manager pathways
+└─> 🎯 Career focus: SWE or Technical Program/Product Manager pathways
 ```
 
 ---
