@@ -151,6 +151,9 @@ const interests = {
   <a href="https://instagram.com/phganiee_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://phganie.github.io/phuongan-bui/">
+  <img src="https://img.shields.io/badge/Website-8EC5FC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
 </p>
 
 ---
